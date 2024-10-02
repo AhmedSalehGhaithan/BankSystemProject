@@ -1,7 +1,13 @@
 Class Diagram
 ![ClassDigram2](https://github.com/user-attachments/assets/899e42fe-23d0-4c02-bc52-3d4be61ad7a9)
 
+ActivityDigramForAllSystem
+![ActivityDigramForAllSystem](https://github.com/user-attachments/assets/9dcd947f-ea38-475e-ade2-73e0773b3732)
+
 Activity Diagram For Transfer
+
+![Uploading ActivityDigramForAllSystem.svg…]()
+
 ![ActivityDigramForTransfer](https://github.com/user-attachments/assets/5efd3e16-fe69-42f8-9bfa-a352a6bae2ed)
 Sequence Diagram For All System
 
