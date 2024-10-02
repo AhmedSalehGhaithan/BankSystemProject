@@ -6,8 +6,6 @@ ActivityDigramForAllSystem
 
 Activity Diagram For Transfer
 
-![Uploading ActivityDigramForAllSystem.svg…]()
-
 ![ActivityDigramForTransfer](https://github.com/user-attachments/assets/5efd3e16-fe69-42f8-9bfa-a352a6bae2ed)
 Sequence Diagram For All System
 
