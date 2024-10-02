@@ -9,7 +9,7 @@ Activity Diagram For Transfer
 ![ActivityDigramForTransfer](https://github.com/user-attachments/assets/5efd3e16-fe69-42f8-9bfa-a352a6bae2ed)
 Sequence Diagram For All System
 
-![Ssquence DigramForAllShort](https://github.com/user-attachments/assets/cdbe7d6d-67d8-41ad-8b18-27eb0f87017b)
+![SequenceDigram](https://github.com/user-attachments/assets/382f0c7e-fabd-48b8-9270-409f5fc4c7d6)
 
 
 Sequence Diagram For Bank And Transaction
